@@ -1,0 +1,28 @@
+.btn-primary{
+    background-color: aqua;
+}
+
+.btn-secondary{
+    background-color: cornflowerblue
+}
+
+.btn-success{
+    background-color: blue;
+}
+
+.btn-danger{
+    background-color: salmon
+}
+
+.btn-warning{
+ background-color: darkturquoise
+}
+
+.btn-primary1{
+    background-color: #5d5d95;
+}
+
+.btn-secondary2{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(185,223,187,1) 35%, rgba(0,212,255,1) 100%);
+}
